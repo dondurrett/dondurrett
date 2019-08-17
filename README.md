@@ -8,6 +8,6 @@ The subtitle is Everything You Need to Know.
 
 It is 120 pages in PDF format. 
 
-There is a table of content that includes what is in the book and short introduction explaining what it is about. 
+There is a table of content that includes what is in the book and a short introduction explaining what it is about. 
 
 I'm looking for feedback. 
